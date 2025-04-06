@@ -19,8 +19,8 @@ Welcome to my GitHub profile! I'm passionate about technology, AI, and cryptocur
 - **DevOps & Tools:** Docker, Kubernetes, GitHub Actions, Oracle VM, Linux (Ubuntu)
 
 ## 📊 GitHub Stats
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=squidchemistry&show_icons=true&theme=radical&count_private=true&cache_seconds=1800&token=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)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=squidchemistry&layout=compact&theme=radical)
 
 ## 🔥 Recent Contributions
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=radical)
@@ -59,8 +59,6 @@ An intelligent chatbot powered by OpenAI API and LangChain, designed for seamles
 
 
 
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=squidchemistry&show_icons=true&theme=radical&count_private=true&cache_seconds=1800&token=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)
 
 
 
