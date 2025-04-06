@@ -51,10 +51,6 @@ An intelligent chatbot powered by OpenAI API and LangChain, designed for seamles
   </a>
 </p>
 
-### 🚀 "Building the future, one commit at a time."
-
-
-![langs_count=10](https://github-readme-stats.vercel.app/api/top-langs/?username=squidchemistry&layout=compact)
 
 
 
