@@ -58,5 +58,7 @@ An intelligent chatbot powered by OpenAI API and LangChain, designed for seamles
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=squidchemistry&show_icons=true&theme=tokyonight)
 
+https://github-readme-stats-arshvermas-projects.vercel.app/
+
 
 
