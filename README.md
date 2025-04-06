@@ -52,4 +52,5 @@ An intelligent chatbot powered by OpenAI API and LangChain, designed for seamles
 </p>
 
 ### 🚀 "Building the future, one commit at a time."
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical)
 
