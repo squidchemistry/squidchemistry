@@ -48,9 +48,9 @@ An intelligent chatbot powered by OpenAI API and LangChain, designed for seamles
   </a>
   <a href="https://github.com/squidchemistry" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
-  </a>
-  ![Profile Views](https://komarev.com/ghpvc/?username=squidchemistry&color=blue)
-
+  </a> 
+  
+    ![Profile Views](https://komarev.com/ghpvc/?username=squidchemistry&color=green&style=flat-square)
 </p>
 
 
