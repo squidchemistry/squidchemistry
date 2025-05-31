@@ -1,4 +1,4 @@
-# Hi there, I'm [ARSH VERMA] 👋
+# Hi there, I'm ARSH VERMA 👋
 
 Welcome to my GitHub profile! I'm passionate about technology, AI, and cryptocurrency. I love building innovative projects and sharing my knowledge with the community.
 
