@@ -23,7 +23,8 @@ Welcome to my GitHub profile! I'm passionate about technology, AI, and cryptocur
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=squidchemistry&layout=compact&theme=radical)
 
 ## 🔥 Recent Contributions
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=squidchemistry&theme=radical)
+[![GitHub Streak](https://streak-stats.demolab.com?user=squidchemistry&theme=tokyonight)](https://git.io/streak-stats)
+
 
 ## 📌 Featured Projects
 ### [Synchronicity](https://github.com/your-username/synchronicity)
