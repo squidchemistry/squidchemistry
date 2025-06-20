@@ -23,9 +23,7 @@ Welcome to my GitHub profile! I'm passionate about technology, AI, and cryptocur
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=squidchemistry&layout=compact&theme=radical)
 
 ## 🔥 Recent Contributions
-[![GitHub Streak](https://streak-stats.demolab.com?user=squidchemistry&theme=default)](https://git.io/streak-stats)
-
-
+[![GitHub Streak](https://streak-stats.demolab.com?user=squidchemistry&theme=transparent)](https://git.io/streak-stats)
 ## 📌 Featured Projects
 ### [Synchronicity](https://github.com/your-username/synchronicity)
 An AI & cryptocurrency platform providing real-time data, portfolio tracking, and investment strategies.
